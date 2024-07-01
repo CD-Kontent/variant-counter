@@ -31,7 +31,9 @@ Please report any issues through GitHub.
 
 Deploy your own instance of the tool.
 If you have a Netlify account linked to your GitHub account, this can be done with one click - thanks Netlify!
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CD-Kontent/variant-counter)
+
 Otherwise, this will need to be done manually.
 
 Once deployed, simply provide an Environment ID, and matching Preview API Key, and run the tool. Once the count is completed, a new button will appear to allow for downloading the results as a CSV file.
